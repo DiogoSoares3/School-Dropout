@@ -1,6 +1,6 @@
 # School Dropout Prediction
 
-This data science project aims to develop machine learning model capable of predicting student outcomes in higher education. By analyzing set of demographic, socio-economic, and academic performance data, the model classifies students into two primary categories: `Graduate` or `Dropout`.
+This data science project aims to develop machine learning model capable of predicting student outcomes in higher education. By analyzing set of demographic, socio-economic, and academic performance data, the model classifies students into two primary categories: `Graduate` or `Dropout`. The dataset used for this analysis is public and was obtained from the Kaggle platform, available at the following link: [Predict students' dropout and academic success](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
 
 The core challenge this project addresses is the high rate of student attrition, a significant issue for educational institutions worldwide. Early identification of students at risk of dropping out allows for timely and targeted interventions. The ultimate goal is to provide institutions with an analytical tool to proactively support their student body, thereby improving retention rates, fostering student success, and enhancing the institution's overall educational effectiveness. This predictive model serves as the foundation for a data-driven strategy to reduce academic evasion and ensure more students successfully complete their educational journey.
 
